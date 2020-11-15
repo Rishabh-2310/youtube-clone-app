@@ -9,46 +9,6 @@ This project briefly depicts the Youtube Clone site using React.js, Node.js, Mon
 The first part shows how to download a project clone from GitHub and render the site. <br/>
 The second part describes the features and functions of the site. <br/>
 <br/>
-[Visit YouTube Video](https://youtu.be/r16x6Hv3mnQ)
-
-## Motivation
-In school I graduated in April 2020, I learned HTML, CSS, and JS in relation to web developement. <br/>
-However, in practice, I wanted to use a JS library for the UI, and I stumbled upon React.js, which is popular these days (created by Facebook). 
-Frequently enjoying Youtube, I have been curious about the algorithm applied to the function of updating and subscribing to videos.
-This motivated me to create a personal website by cloning some functions of the Youtube. 
-In the project, Node.js is used for the back-end, and React.js is used for the front-end.
-
-## Installation
-1. Download ffmpeg and set an environmental path: [How?](https://www.youtube.com/watch?v=qjtmgCb8NcE)
-2. Download the clone (it is a root directory)
-3. Open a terminal
-4. Go to the root dir
-5. Install Node Package Manager --- **npm install**
-6. Change the dir to the client --- **cd client**
-7. Install Node Package Manager --- **npm install**
-8. In the project, go to **server > config** dir
-9. Create '**dev.js**' file
-10. Put your MongoDB info
-11. Save it
-12. Open a terminal in the root dir
-13. Run Node Package Manager --- **npm run dev**
-
-
-## Tech/Framework used
-**React.js**: A JavaScript library for building user interfaces
- - URL: https://reactjs.org/ <br/>
-
-**Node.js**: An asynchronous event-driven JavaScript runtime designed to build scalable network applications
- - URL: https://nodejs.org/ <br/>
-
-**MongoDB**: A document-oriented NoSQL database used for high volume data storage
- - URL: https://www.mongodb.com/ <br/>
-
-**Redux**: A predictable state container for JavaScript apps
- - URL: https://redux.js.org/ <br/>
-
-**React Hooks**: A new addition in React 16.8. They let you use state and other React features without writing a class
- - URL: https://reactjs.org/docs/hooks-intro.html <br/>
  
 ## Dependencies
 - The below is React.js dependencies installed by 'npm install' command line
@@ -108,5 +68,4 @@ In the project, Node.js is used for the back-end, and React.js is used for the f
 - **Likes / Dislikes**: Users can select the Likes/Dislikes button for the video or comment they are watching 
  
 
-[Visit YouTube Video](https://youtu.be/r16x6Hv3mnQ)
  
